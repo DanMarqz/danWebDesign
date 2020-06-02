@@ -164,8 +164,11 @@ aside {
     border-radius: 0;
     height: 100px;
     padding: 10px 20px;
-    font-size: 8px;
   }
+
+  #content h1{
+  font-size: 50%;
+}
 
   #principal{
     float: left;
