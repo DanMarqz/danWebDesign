@@ -107,6 +107,7 @@ button{
   padding: 10px 20px;
   background-color: #eee;
   border-radius: 1em;
+  font-size: 100%;
 }
 
 #principal {
