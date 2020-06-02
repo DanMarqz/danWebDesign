@@ -107,7 +107,6 @@ button{
   padding: 10px 20px;
   background-color: #eee;
   border-radius: 1em;
-  font-size: 100%;
 }
 
 #principal {
@@ -162,7 +161,7 @@ aside {
 
   #content header{
     border-radius: 0;
-    height: 100px;
+    height: 150px;
     padding: 10px 20px;
   }
 
