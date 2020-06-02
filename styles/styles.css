@@ -103,7 +103,7 @@ button{
 }
 
 #content header{
-  height: 100px;
+  height: 150px;
   padding: 10px 20px;
   background-color: #eee;
   border-radius: 1em;
@@ -161,7 +161,7 @@ aside {
 
   #content header{
     border-radius: 0;
-    height: 150px;
+    height: 200px;
     padding: 10px 20px;
   }
 
